@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 echo
 
+=======
+git status
+>>>>>>> update_script
